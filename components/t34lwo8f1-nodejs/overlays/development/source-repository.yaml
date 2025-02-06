@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t34lwo8f1-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t34lwo8f1-nodejs
